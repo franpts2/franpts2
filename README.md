@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisca Portugal</h1>
 <h3 align="center">An Informatics and Computing Engineering student at FEUP</h3>
 
-- 🔭 I’m currently working on [focusly](https://github.com/LEIC-ES-2024-25/2LEIC02T4)
+- 🔭 I’m currently working on [focusly](https://github.com/LEIC-ES-2024-25/2LEIC02T4), [artflow](https://github.com/FEUP-LTW-2025/ltw-project-ltw07g05)
 
 - 🌱 I’m currently learning **App and Web Development**
 
