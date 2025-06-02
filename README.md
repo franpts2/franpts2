@@ -16,5 +16,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=franpts2&show_icons=true&theme=gruvbox&title_color=ffa348&text_color=ffffff&hide_border=true&locale=en" alt="franpts2" />
+  <p></p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=franpts2&theme=dark" alt="franpts2" />
 </div>
