@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisca Portugal</h1>
 <h3 align="center">An Informatics and Computing Engineering student at FEUP</h3>
 
-- 🔭 I’m currently working on [my portfolio website](https://github.com/franpts2/franciscapt_portfolio)
+- 🔭 I’m currently working on [cadence - a song each day](https://github.com/franpts2/cadence)
 
 - 🌱 I’m currently learning **Web Development**
 
