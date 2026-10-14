@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisca Portugal</h1>
-<h3 align="center">An Informatics and Computing Engineering student at FEUP</h3>
+<h3 align="center">A Software Engineering MsC student at FEUP</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
